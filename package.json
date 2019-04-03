@@ -1,0 +1,23 @@
+{
+  "name": "Wed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanp90/Wed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfanp90/Wed/issues"
+  },
+  "homepage": "https://github.com/irfanp90/Wed#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
